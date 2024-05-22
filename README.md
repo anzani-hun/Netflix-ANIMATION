@@ -1,1 +1,1 @@
-<img src="!preview.PNG" alt="Netflix logo animation"/>
+<img src="images/!preview.PNG" alt="Netflix logo animation"/>
